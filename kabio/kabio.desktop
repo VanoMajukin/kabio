@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Kabio
+GenericName=Recognize notes from wave in realtime
+Comment=Transformation a wave signal to the MIDI notation.
+Comment[ru]=Преобразование звукового сигнала в нотацию MIDI
+Categories=Audio;AudioVideo;Midi;X-Alsa;X-Jack;Qt;
+Icon=kabio
+Exec=kabio
